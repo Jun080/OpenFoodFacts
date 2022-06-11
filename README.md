@@ -3,17 +3,11 @@
 
 
 ## Explications
-### 1. Synopsis
-
-Le jeu se déroule dans l'univers d'AmongUs. 
-Le joueur incarne un des membres de l'équipage d'un vaisseau spatial, chacun pouvant être soit un équipier, soit un imposteur. 
-L'objectif pour le joueur est d'identifier l'imposteurs et de l'éliminer tout en accomplissant des quêtes dans le vaisseau afin de découvrir de nouveaux indices.
-
-### 2. Pourquoi
+### 1. Pourquoi
 
 Dans le cadre d'un projet Design dans notre école, nous avons eu 2 semaines pour effectuer la refonte d'un site web tant sur l'expérience utilisateur que sur l'interface utilisateur.
 
-### 3. Les livrables
+### 2. Les livrables
 * Benchmark concurrentiel
 * 2 interviews utilisateurs
 * Verbatims
